@@ -1,5 +1,3 @@
-# lyxgpt-privacy
-Descrição: Política de Privacidade para o LyxGPT
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -25,8 +23,7 @@ Descrição: Política de Privacidade para o LyxGPT
     <p>Não compartilhamos suas informações pessoais com terceiros, exceto quando necessário para fornecer o serviço ou conforme exigido por lei.</p>
     <h2>Alterações na Política de Privacidade</h2>
     <p>Reservamo-nos o direito de atualizar esta política de privacidade a qualquer momento. Notificaremos os usuários sobre quaisquer alterações significativas através do serviço.</p>
-    <p>Se você tiver alguma dúvida sobre esta política de privacidade, entre em contato conosco pelo [seu email ou contato].</p>
+    <p>Se você tiver alguma dúvida sobre esta política de privacidade, entre em contato conosco pelo <a href="mailto:geral@lyxbiz.pt">geral@lyxbiz.pt</a>.</p>
 </body>
 </html>
-
 

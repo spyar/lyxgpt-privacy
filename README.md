@@ -1,6 +1,5 @@
 # lyxgpt-privacy
 Descrição: Política de Privacidade para o LyxGPT
-
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -29,3 +28,5 @@ Descrição: Política de Privacidade para o LyxGPT
     <p>Se você tiver alguma dúvida sobre esta política de privacidade, entre em contato conosco pelo [seu email ou contato].</p>
 </body>
 </html>
+
+

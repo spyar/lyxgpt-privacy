@@ -21,5 +21,11 @@ Descrição: Política de Privacidade para o LyxGPT
         <li>Melhorar continuamente os serviços do LyxGPT.</li>
     </ul>
     <h2>Proteção das Informações</h2>
-    <p>Implementamos medidas de segurança para 
-
+    <p>Implementamos medidas de segurança para proteger suas informações contra acesso não autorizado, alteração, divulgação ou destruição.</p>
+    <h2>Compartilhamento de Informações</h2>
+    <p>Não compartilhamos suas informações pessoais com terceiros, exceto quando necessário para fornecer o serviço ou conforme exigido por lei.</p>
+    <h2>Alterações na Política de Privacidade</h2>
+    <p>Reservamo-nos o direito de atualizar esta política de privacidade a qualquer momento. Notificaremos os usuários sobre quaisquer alterações significativas através do serviço.</p>
+    <p>Se você tiver alguma dúvida sobre esta política de privacidade, entre em contato conosco pelo [seu email ou contato].</p>
+</body>
+</html>
